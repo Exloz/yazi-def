@@ -1,12 +1,22 @@
 [[plugin.deps]]
-use = "yazi-rs/plugins:smart-enter"
-rev = "0725851"
-hash = "4cb295b4f6c321f84fce74cde27c3e08"
-
-[[plugin.deps]]
 use = "Lil-Dank/lazygit"
 rev = "9f924e3"
 hash = "d93946717cb5f0edd8fad839078e2195"
+
+[[plugin.deps]]
+use = "yazi-rs/plugins:smart-filter"
+rev = "beb586a"
+hash = "f9d872e5bd1aac3a153dee63c2bbc618"
+
+[[plugin.deps]]
+use = "Rolv-Apneseth/bypass"
+rev = "ecb1f7f"
+hash = "1bdf7b87c2df0d64ee95d38579fe85b1"
+
+[[plugin.deps]]
+use = "yazi-rs/plugins:smart-enter"
+rev = "beb586a"
+hash = "4cb295b4f6c321f84fce74cde27c3e08"
 
 [flavor]
 deps = []
